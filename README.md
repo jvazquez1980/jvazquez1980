@@ -9,13 +9,13 @@ Cypress | Typescript | Unit Testing | Automation Testing | Selenium | Playwright
 📚I'm passionate about continuous improvement, research, and [learning](https://www.linkedin.com/in/javier-v%C3%A1zquez-taboada-b8269693/details/certifications/). 
 
 ## 🏆 Experience
-- **Senior Specialist QA Exoticca (Since January 2024)
+- Senior Specialist QA Exoticca (Since January 2024)
 
-- **Senior Quality Engineer- Exoticca (Since June 2023)**: As a Senior Quality Engineer, I bring a wealth of technical expertise and experience to the table, specializing in advanced testing methodologies and automation techniques.
+- Senior Quality Engineer- Exoticca (Since June 2023): As a Senior Quality Engineer, I bring a wealth of technical expertise and experience to the table, specializing in advanced testing methodologies and automation techniques.
 
-- **Quality Engineer- Exoticcaa Automatic testing with Cypress. Manual testing in an Agile environment. Test strategy management and leadership. Creation and implementation of a comprehensive automated testing plan. Implement metrics and Kpis.
+- Quality Engineer- Exoticcaa Automatic testing with Cypress. Manual testing in an Agile environment. Test strategy management and leadership. Creation and implementation of a comprehensive automated testing plan. Implement metrics and Kpis.
 
-- **Quality Assurance Lead- Iberostar . Automatic test program via Python-Selenium, Cucumber, Allure, Jenkins and other QA tools.
+- Quality Assurance Lead- Iberostar . Automatic test program via Python-Selenium, Cucumber, Allure, Jenkins and other QA tools.
 
 ## 📊 My GitHub Stats
 
