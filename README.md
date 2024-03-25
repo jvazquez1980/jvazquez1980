@@ -4,7 +4,7 @@
 - 🌱 I’m Senior Quality Assurace in Typescript, Cypress. And learning Playwright, Unit test.. 📝
 - 💬 Ask me about automation, testing strategies, TDD, pair programing.
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/javier-v%C3%A1zquez-taboada-b8269693/)
-- I'm passionate about continuous improvement, research, and [learning](https://www.linkedin.com/in/javier-v%C3%A1zquez-taboada-b8269693/details/certifications/). 
+- 📚I'm passionate about continuous improvement, research, and [learning](https://www.linkedin.com/in/javier-v%C3%A1zquez-taboada-b8269693/details/certifications/). 
 
 I'm a big contributor 🏆😃
 
