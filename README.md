@@ -1,7 +1,7 @@
 ### Hi Testing World 👋
 
 - 🔭 I’m currently working on Exoticca ✅
-- 🌱 I’m currently learning Playwright, Typescript, Cypress, Unit test 📝
+- 🌱 I’m Senior Quality Assurace in Typescript, Cypress. And learning Playwright, Unit test.. 📝
 - 💬 Ask me about automation, testing strategies, TDD, pair programing.
 - 📫 How to reach me: javitxuelo@gmail.com
 
