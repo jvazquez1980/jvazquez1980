@@ -1,7 +1,7 @@
 ### Hi Testing World 👋
 
 - 🔭 I’m currently working on Exoticca ✅
-- 🌱 I’m currently learning Playwright, Typescript, Cypress.Unit test 📝
+- 🌱 I’m currently learning Playwright, Typescript, Cypress, Unit test 📝
 - 💬 Ask me about automation, testing strategies, TDD, pair programing.
 - 📫 How to reach me: javitxuelo@gmail.com
 
