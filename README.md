@@ -9,4 +9,5 @@
 
 I'm a big contributor 🏆😃
 
-[Captura de pantalla 2024-03-25 a la(s) 11 17 56 a m](https://github.com/jvazquez1980/jvazquez1980/assets/72526527/509ee04d-b8e1-4e2c-bf5d-7fd2680fbaaf)
+
+![Captura de pantalla 2024-03-25 a la(s) 11 17 56 a m](https://github.com/jvazquez1980/jvazquez1980/assets/72526527/d5deefe4-92cf-4b6a-9f3c-3cc3bebfee1e)
