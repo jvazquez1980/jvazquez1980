@@ -18,7 +18,6 @@ Cypress | Typescript | Unit Testing | Automation Testing | Selenium | Playwright
 - **Quality Assurance Lead- Iberostar . Automatic test program via Python-Selenium, Cucumber, Allure, Jenkins and other QA tools.
 
 ## 📊 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
 
 I'm a big contributor 🏆😃
 
@@ -31,5 +30,5 @@ I'm a big contributor 🏆😃
 - [Selenium](https://github.com/jvazquez1980/proyecto-pruebas/blob/main/src/tests/tui.py)
 
 ## 📫 How to reach me
-You can find me on GitHub at [your_username](https://github.com/your_username)
+You can find me on GitHub at [jvazquez1980](https://github.com/your_username](https://github.com/jvazquez1980))
 And Linkedin [LinkedIn](https://www.linkedin.com/in/javier-v%C3%A1zquez-taboada-b8269693/)
