@@ -19,7 +19,7 @@ Cypress | Typescript | Unit Testing | Automation Testing | Selenium | Playwright
 
 ## 📊 My GitHub Stats
 
-I'm a big contributor 🏆😃
+I'm a great contributor 🏆😃
 
 
 ![Captura de pantalla 2024-03-25 a la(s) 11 17 56 a m](https://github.com/jvazquez1980/jvazquez1980/assets/72526527/d5deefe4-92cf-4b6a-9f3c-3cc3bebfee1e)
