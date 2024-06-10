@@ -2,7 +2,7 @@
 # Hello, I'm Javier Vázquez Taboada 👋
 
 ## 🚀 About Me
-I'm a Senior Quality Engineer at Exoticca. I bring a wealth of technical expertise and experience to the table, specializing in advanced testing methodologies and automation techniques. My proficiency with tools like Cypress+Typescript, along with extensive experience in unit testing and automation testing, enables me to ensure the delivery of robust and high-quality software solutions.
+I'm a Senior Specialist Quality Engineer at Exoticca. I bring a wealth of technical expertise and experience to the table, specializing in advanced testing methodologies and automation techniques. My proficiency with tools like Cypress+Typescript, along with extensive experience in unit testing and automation testing, enables me to ensure the delivery of robust and high-quality software solutions.
 
 ## 🛠 Technical Skills
 Cypress | Typescript | Unit Testing | Automation Testing | Selenium | Playwright
