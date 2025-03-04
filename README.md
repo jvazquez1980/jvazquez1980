@@ -27,7 +27,7 @@ I'm a great contributor 🏆😃
 ## 📝 Repositories
 - [Cypress](https://github.com/JvazquezQAexoticca/Democypress)
 - [Playwright](https://github.com/jvazquez1980/Playwright-Typescript)
-- [Selenium]((https://github.com/jvazquez1980/SeleniumJava))
+- [Selenium](https://github.com/jvazquez1980/SeleniumJava)
 
 ## 📫 How to reach me
 You can find me on GitHub at [jvazquez1980](https://github.com/your_username](https://github.com/jvazquez1980))
