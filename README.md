@@ -21,8 +21,10 @@ Cypress | Typescript| Api testing | DDBB |  Unit Testing | Automation Testing | 
 
 I'm a great contributor 🏆😃
 
+![Captura de pantalla 2025-04-30 a la(s) 12 01 52 p m](https://github.com/user-attachments/assets/cb36610d-3a84-48d3-9d9f-b5aa050b383e)
 
 ![Captura de pantalla 2024-03-25 a la(s) 11 17 56 a m](https://github.com/jvazquez1980/jvazquez1980/assets/72526527/d5deefe4-92cf-4b6a-9f3c-3cc3bebfee1e)
+
 
 ## 📝 Some examples of my repositories
 - [Cypress](https://github.com/jvazquez1980/CypressJavascript.git)
