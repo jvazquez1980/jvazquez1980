@@ -5,7 +5,7 @@
 I'm a Senior Specialist Quality Engineer at Exoticca. I bring a wealth of technical expertise and experience to the table, specializing in advanced testing methodologies and automation techniques. My proficiency with tools like Cypress+Typescript, along with extensive experience in unit testing and automation testing, enables me to ensure the delivery of robust and high-quality software solutions.
 
 ## 🛠 Technical Skills
-Cypress | Typescript | Unit Testing | Automation Testing | Selenium | Playwright
+Cypress | Typescript| Api testing | DDBB |  Unit Testing | Automation Testing | Selenium | Playwright | Javascript | Java | Jmeter | Postman |
 📚I'm passionate about continuous improvement, research, and [learning](https://www.linkedin.com/in/javier-v%C3%A1zquez-taboada-b8269693/details/certifications/). 
 
 ## 🏆 Experience
@@ -24,7 +24,7 @@ I'm a great contributor 🏆😃
 
 ![Captura de pantalla 2024-03-25 a la(s) 11 17 56 a m](https://github.com/jvazquez1980/jvazquez1980/assets/72526527/d5deefe4-92cf-4b6a-9f3c-3cc3bebfee1e)
 
-## 📝 Repositories
+## 📝 Some examples of my repositories
 - [Cypress](https://github.com/jvazquez1980/CypressJavascript.git)
 - [Playwright](https://github.com/jvazquez1980/Playwright-Typescript)
 - [Selenium](https://github.com/jvazquez1980/SeleniumJava.git)
