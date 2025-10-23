@@ -9,7 +9,9 @@ Cypress | Typescript| Api testing | DDBB |  Unit Testing | Automation Testing | 
 📚I'm passionate about continuous improvement, research, and [learning](https://www.linkedin.com/in/javier-v%C3%A1zquez-taboada-b8269693/details/certifications/). 
 
 ## 🏆 Experience
-- Senior Specialist QA Exoticca (Since January 2024)
+- Senior QA in FCM
+- 
+- Senior Specialist QA Exoticca
 
 - Senior Quality Engineer- Exoticca (Since June 2023): As a Senior Quality Engineer, I bring a wealth of technical expertise and experience to the table, specializing in advanced testing methodologies and automation techniques.
 
